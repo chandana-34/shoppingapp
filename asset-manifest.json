@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shoppingapp/static/css/main.b3e6ecf7.chunk.css",
+    "main.js": "/shoppingapp/static/js/main.ff616db0.chunk.js",
+    "main.js.map": "/shoppingapp/static/js/main.ff616db0.chunk.js.map",
+    "runtime-main.js": "/shoppingapp/static/js/runtime-main.8bccf6dc.js",
+    "runtime-main.js.map": "/shoppingapp/static/js/runtime-main.8bccf6dc.js.map",
+    "static/css/2.c1b2dbd0.chunk.css": "/shoppingapp/static/css/2.c1b2dbd0.chunk.css",
+    "static/js/2.3035ae4c.chunk.js": "/shoppingapp/static/js/2.3035ae4c.chunk.js",
+    "static/js/2.3035ae4c.chunk.js.map": "/shoppingapp/static/js/2.3035ae4c.chunk.js.map",
+    "static/js/3.e33533af.chunk.js": "/shoppingapp/static/js/3.e33533af.chunk.js",
+    "static/js/3.e33533af.chunk.js.map": "/shoppingapp/static/js/3.e33533af.chunk.js.map",
+    "index.html": "/shoppingapp/index.html",
+    "static/css/2.c1b2dbd0.chunk.css.map": "/shoppingapp/static/css/2.c1b2dbd0.chunk.css.map",
+    "static/css/main.b3e6ecf7.chunk.css.map": "/shoppingapp/static/css/main.b3e6ecf7.chunk.css.map",
+    "static/js/2.3035ae4c.chunk.js.LICENSE.txt": "/shoppingapp/static/js/2.3035ae4c.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/shoppingapp/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bccf6dc.js",
+    "static/css/2.c1b2dbd0.chunk.css",
+    "static/js/2.3035ae4c.chunk.js",
+    "static/css/main.b3e6ecf7.chunk.css",
+    "static/js/main.ff616db0.chunk.js"
+  ]
+}
