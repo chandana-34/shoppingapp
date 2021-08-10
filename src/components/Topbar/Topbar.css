@@ -1,0 +1,30 @@
+.topbar {
+  background-color: #fff !important;
+  font-size: 14px;
+  color: rgb(27, 25, 25) !important;
+  padding: 0 32px !important;
+}
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+}
+.MuiBadge-badge {
+  background-color: #009688 !important;
+  color: #fff;
+}
+.MuiBadge-anchorOriginTopRightRectangle {
+  top: -4px !important;
+  right: -4px !important;
+}
+.brand-title {
+  text-transform: uppercase;
+  font-size: 30px !important;
+}
+.brand {
+  font-weight: 600;
+  color: #009688;
+}
+.MuiInputBase-input {
+  border: 1px solid #aaa !important;
+  border-radius: 20px;
+}

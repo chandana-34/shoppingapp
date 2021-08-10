@@ -1,0 +1,39 @@
+footer {
+  width: 100%;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 2% 8%;
+}
+footer > div {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+footer > div:first-of-type {
+  padding-left: 0;
+}
+
+.footerHeading {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 16px;
+  color: white;
+  opacity: 0.9;
+  letter-spacing: 1px;
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
+  display: block;
+  margin-top: 5px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: 12px;
+  opacity: 0.8;
+}
+footer a:hover {
+  color: #009866;
+}

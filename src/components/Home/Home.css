@@ -1,0 +1,12 @@
+.home {
+  width: 100%;
+  margin-top: 52px;
+}
+.cards-wrapper {
+  width: 92%;
+  margin: 6% auto;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  column-gap: 30px;
+  row-gap: 30px;
+}

@@ -1,0 +1,105 @@
+.container {
+  width: 90%;
+  margin: 80px auto;
+}
+.sectionHeading {
+  font-weight: 400 !important;
+  font-size: 40px !important;
+  letter-spacing: -2px !important;
+  font-family: 'Montserrat' !important;
+  margin-bottom: 3% !important;
+}
+.totalItemsHeading {
+  font-size: 20px !important;
+  letter-spacing: 1px !important;
+  font-family: 'Montserrat' !important;
+}
+.cardContainer {
+  margin-top: 4% !important;
+}
+.leftSection {
+  width: 52%;
+}
+.rightSection {
+  width: 40%;
+  margin-right: 32px !important;
+  padding: 15px !important;
+}
+.productCard {
+  padding: 16px;
+  display: flex;
+  box-shadow: 0 0 10px #aaa !important;
+  margin-bottom: 20px;
+}
+.productCard > img {
+  width: 80px;
+  height: 100px;
+  margin-right: 20px;
+}
+.productCard h4 {
+  font-size: 20px;
+  font-weight: 500;
+  margin: 0%;
+  margin-bottom: 12px;
+}
+.productCard h5 {
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0%;
+  margin-bottom: 12px;
+  color: rgb(27, 25, 25);
+  letter-spacing: 1px;
+}
+.productCard h6 {
+  font-size: 18px;
+  font-weight: 400;
+  margin: 0%;
+  margin-right: 12px;
+  color: rgb(27, 25, 25);
+}
+.checkOutDetails div {
+  display: flex;
+  align-items: center;
+}
+.checkOutDetails div button {
+  color: rgb(27, 25, 25) !important;
+}
+.rightSection .card {
+  padding: 15px !important;
+}
+.totalAmountHeading {
+  letter-spacing: 2px !important;
+  font-family: 'Montserrat' !important;
+  font-size: 24px !important;
+  font-weight: 400 !important;
+}
+.totalAmountPara {
+  margin-top: 30px !important;
+  font-size: 16px !important;
+  letter-spacing: 2px !important;
+  font-family: 'Montserrat' !important;
+  font-weight: 400 !important;
+}
+.totalAmount {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.placeOrderBtn {
+  background-color: #009688 !important;
+  color: #fff !important;
+  margin-top: 72px !important;
+  transition: all 0.3 linear;
+}
+
+.placeOrderBtn:hover {
+  transform: scale(1.1);
+}
+
+.MuiButtonBase-root.Mui-disabled {
+  cursor: not-allowed !important;
+  pointer-events: initial;
+}
+.MuiButtonBase-root.Mui-disabled {
+  transform: scale(1);
+}
